@@ -11,4 +11,5 @@ pubspec.lock
 .flutter-plugins
 local.properties
 
-.fvm/flutter_sdk
+# FVM Version Cache
+.fvm/

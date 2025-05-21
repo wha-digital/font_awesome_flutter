@@ -4,21 +4,21 @@ maintainer: Michael Spiss (@michaelspiss)
 version: 10.3.0
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
 dev_dependencies:
-  recase: ^4.0.0
-  args: ^2.3.0
+  recase: ^4.1.0
+  args: ^2.6.0
   flutter_test:
     sdk: flutter
-  version: ^2.0.0
-  ansicolor: ^2.0.1
-  flutter_lints: ^1.0.0
-  pub_semver: ^2.1.1
+  version: ^3.0.2
+  ansicolor: ^2.0.3
+  flutter_lints: ^5.0.0
+  pub_semver: ^2.1.4
 
 flutter:
   fonts:
